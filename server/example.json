@@ -77,13 +77,13 @@
       },
       {
         "ligand": {
-          "ligand": "CCD_ATP",
+          "ligand": "CC1=NC2=C(C=C1)C=CC1=C2N=C(C)C=C1",
           "count": 1
         }
       },
       {
         "ligand": {
-          "ligand": "CCD_HEM",
+          "ligand": "CC1=NC2=C(C=C1)C=CC1=C2N=C(C)C=C1",
           "count": 2
         }
       },
