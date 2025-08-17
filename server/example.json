@@ -39,7 +39,7 @@
       },
       {
         "dnaSequence": {
-          "sequence": "GATTACA",
+          "sequence": "GGGCAGGGGGTGATGGGGAGGAGCCAGGG",
           "modifications": [
             {
               "modificationType": "CCD_6OG",
@@ -55,7 +55,7 @@
       },
       {
         "dnaSequence": {
-          "sequence": "TGTAATC",
+          "sequence": "GGGCAGGGGGTGATGGGGAGGAGCCAGGG",
           "count": 1
         }
       },
@@ -116,12 +116,18 @@
       },
       {
         "dnaSequence": {
-          "sequence": "TAGGACA",
+          "sequence": "GGGCAGGGGGTGATGGGGAGGAGCCAGGG",
           "count": 1
         }
       }
     ],
     "dialect": "alphafoldserver",
     "version": 1
-  }
+  },
+   {
+        "ligand": {
+          "ligand": "CC1=NC2=C(C=C1)C=CC1=C2N=C(C)C=C1",
+          "count": 2
+        }
+      },
 ]
