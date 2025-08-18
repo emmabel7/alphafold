@@ -5,7 +5,7 @@
     "sequences": [
       {
         "proteinChain": {
-          "sequence": "PREACHINGS",
+          "sequence": "RRVLKPRHLNMIAIGGSIGTGLFVASGATVATAGPGGALLSYALIGLMVYFLMTSLGEMAAYMPVSGSFCTYGSRFVEDGFGFALGWNYWYNWAVTIAAELVAAQLVMSFWFPEVPGIYWSAIFLGIMFGLNVISARGFGESEFWFALIKVVTVVIFIGVGLATIFGIMHGVESPGFSNFTMGDAPFVGGFQAMVGVAMIAGFSFQGTELIGIAAGESENPRKNIPIAIRQVFWRILMFYILAIFVIGMLIPYTDPNLLKNDASDISVSPFTLLFERAGFAAAAGVMNAVILSAILSAGNSGMYASTRMLYNLALEGKAPRLFSRVSRSGVPRNALYATTLVGALCFLTSAFGDSTVYTWLLNTSGMCGFIAWLGIAISHYRFRKGYLAQGGRLEDLPYRAKLFPFGPLFAFALCMVITLGQNYQALVGERIDWIGLLATYISLPLFLAIWLGYRWKKRARFVRYHEMDVSPTNTKQLQESGGGLVQGGSLRLSCAASGRTFSIYGMAWVRQASGKEREFVAAMPRGGGTTNYADSVKGRFSISRDNAKNTVDLQMNSLKPEDTAVYYCVADRGFTLRLGIQHDYWGQGTQVTVSS",
           "glycans": [
             {
               "residues": "NAG(NAG)(BMA)",
@@ -16,70 +16,6 @@
               "position": 10
             }
           ],
-          "modifications": [
-            {
-              "ptmType": "CCD_HY3",
-              "ptmPosition": 1
-            },
-            {
-              "ptmType": "CCD_P1L",
-              "ptmPosition": 5
-            }
-          ],
-          "count": 1,
-          "maxTemplateDate": "2018-01-20"
-        }
-      },
-      {
-        "proteinChain": {
-          "sequence": "REACHER",
-          "count": 1,
-          "useStructureTemplate": false
-        }
-      },
-      {
-        "dnaSequence": {
-          "sequence": "GATTACA",
-          "modifications": [
-            {
-              "modificationType": "CCD_6OG",
-              "basePosition": 1
-            },
-            {
-              "modificationType": "CCD_6MA",
-              "basePosition": 2
-            }
-          ],
-          "count": 1
-        }
-      },
-      {
-        "dnaSequence": {
-          "sequence": "TGTAATC",
-          "count": 1
-        }
-      },
-      {
-        "rnaSequence": {
-          "sequence": "GUAC",
-          "modifications": [
-            {
-              "modificationType": "CCD_2MG",
-              "basePosition": 1
-            },
-            {
-              "modificationType": "CCD_5MC",
-              "basePosition": 4
-            }
-          ],
-          "count": 1
-        }
-      },
-      {
-        "ligand": {
-          "ligand": "CCD_ATP",
-          "count": 1
-        }
       },
       {
         "ligand": {
@@ -89,14 +25,14 @@
       },
       {
         "ion": {
-          "ion": "MG",
-          "count": 2
+          "ion": "K",
+          "count": 1
         }
       },
       {
         "ion": {
           "ion": "NA",
-          "count": 3
+          "count": 1
         }
       }
     ],
