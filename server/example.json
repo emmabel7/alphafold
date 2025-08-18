@@ -16,38 +16,17 @@
               "position": 10
             }
           ],
-          "modifications": [
-            {
-              "ptmType": "CCD_HY3",
-              "ptmPosition": 1
-            },
-            {
-              "ptmType": "CCD_P1L",
-              "ptmPosition": 5
-            }
-          ],
           "count": 1,
           "maxTemplateDate": "2018-01-20"
         }
       },
-      {
-        "proteinChain": {
-          "sequence": "REACHER",
-          "count": 1,
-          "useStructureTemplate": false
-        }
-      },
-      {
+            {
         "dnaSequence": {
-          "sequence": "GATTACA",
+          "sequence": "GGGCAGGGGGTGATGGGGAGGAGCCAGGG",
           "modifications": [
             {
               "modificationType": "CCD_6OG",
               "basePosition": 1
-            },
-            {
-              "modificationType": "CCD_6MA",
-              "basePosition": 2
             }
           ],
           "count": 1
@@ -55,36 +34,14 @@
       },
       {
         "dnaSequence": {
-          "sequence": "TGTAATC",
+          "sequence": "GGGCAGGGGGTGATGGGGAGGAGCCAGGG",
           "count": 1
         }
       },
-      {
-        "rnaSequence": {
-          "sequence": "GUAC",
-          "modifications": [
-            {
-              "modificationType": "CCD_2MG",
-              "basePosition": 1
-            },
-            {
-              "modificationType": "CCD_5MC",
-              "basePosition": 4
-            }
-          ],
-          "count": 1
-        }
-      },
-      {
-        "ligand": {
-          "ligand": "CCD_ATP",
-          "count": 1
-        }
-      },
-      {
+           {
         "ligand": {
           "ligand": "CCD_HEM",
-          "count": 2
+          "count": 1
         }
       },
       {
@@ -95,7 +52,7 @@
       },
       {
         "ion": {
-          "ion": "NA",
+          "ion": "K",
           "count": 3
         }
       }
@@ -108,15 +65,14 @@
     "modelSeeds": [],
     "sequences": [
       {
-        "proteinChain": {
-          "sequence": "TEACHINGS",
-          "count": 1,
-          "maxTemplateDate": "2024-05-08"
+        "dnaSequence": {
+          "sequence": "GGGCAGGGGGTGATGGGGAGGAGCCAGGG",
+          "count": 1
         }
       },
       {
-        "dnaSequence": {
-          "sequence": "TAGGACA",
+        "ligand": {
+          "ligand": "CCD_HEM",
           "count": 1
         }
       }
