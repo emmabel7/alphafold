@@ -55,7 +55,7 @@
       },
       {
         "dnaSequence": {
-          "sequence": "TGTAATC",
+          "sequence": "GGGCAGGGGGTGATGGGGAGGAGCCAGGG",
           "count": 1
         }
       },
@@ -116,7 +116,7 @@
       },
       {
         "dnaSequence": {
-          "sequence": "TAGGACA",
+          "sequence": "GGGCAGGGGGTGATGGGGAGGAGCCAGGG",
           "count": 1
         }
       }
